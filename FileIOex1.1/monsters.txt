@@ -1,0 +1,12 @@
+Monster 1
+health 4
+attack 5
+defense 2
+speed 3
+race 2
+Monster 2
+health 5
+attack 4
+defense 3
+speed 5
+race 1
